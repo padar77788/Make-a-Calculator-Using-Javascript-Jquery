@@ -27,7 +27,7 @@
          </form>
        </div>
 
-     <script src="test.js">
+     <script src="calculator.js">
 
      </script>
 
